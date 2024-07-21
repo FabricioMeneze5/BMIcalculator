@@ -77,8 +77,8 @@ const Form = ({ setRowClass }) => {
     };
 
     return (
-        <form className="d-flex flex-column align-items-center w-100">
-            <div className="form-control w-50 mb-4 p-3">
+        <form className="d-flex flex-column align-items-center w-auto">
+            <div className="form-control mb-4 p-3">
                 <input
                     type="number"
                     placeholder="Weight (kg)"

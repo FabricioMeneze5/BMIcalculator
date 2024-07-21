@@ -1,6 +1,6 @@
 const Table = ({ rowClass }) => {
     return (
-        <table className="table border w-50 border-5 text-center">
+        <table className="table w-auto border border-5 text-center">
             <thead>
                 <tr>
                     <th>BMI</th>
