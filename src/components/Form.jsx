@@ -77,7 +77,7 @@ const Form = ({ setRowClass }) => {
     };
 
     return (
-        <form className="d-flex flex-column align-items-center w-50">
+        <form className="d-flex flex-column align-items-center">
             <div className="form-control mb-4 p-3">
                 <input
                     type="number"
